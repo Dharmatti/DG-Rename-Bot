@@ -221,7 +221,7 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @DVITTALKANNADAMOVIE`
 """
     
     RKN_PROGRESS = """<b>\n
-╭━━━━❰RKN PROCESSING...❱━➣
+╭━━━━❰DVITTAL BOTZ PROCESSING...❱━➣
 ┣⪼ 🗃️ ꜱɪᴢᴇ: {1} | {2}
 ┣⪼ ⏳️ ᴅᴏɴᴇ : {0}%
 ┣⪼ 🚀 ꜱᴩᴇᴇᴅ: {3}/s
