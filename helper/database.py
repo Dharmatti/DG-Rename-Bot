@@ -57,7 +57,7 @@ class Database:
             uploadlimit=Config.FREE_UPLOAD_LIMIT,
             daily=0,
             metadata_mode=False,
-            metadata_code="--change-title @Rkn_Botz\n--change-video-title @Rkn_Botz\n--change-audio-title @Rkn_Botz\n--change-subtitle-title @Rkn_Botz\n--change-author @Rkn_Botz",
+            metadata_code="--change-title @DVITTALBOTZ\n--change-video-title @DVITTALBOTZ\n--change-audio-title @DVITTALBOTZ\n--change-subtitle-title @DVITTALBOTZz\n--change-author @DVITTALBOTZ",
             expiry_time=None,
             has_free_trial=False,
             ban_status=dict(
