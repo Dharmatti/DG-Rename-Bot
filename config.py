@@ -59,9 +59,9 @@ class Config(object):
     
     #force subs
     try:
-        FORCE_SUB = int(os.environ.get("FORCE_SUB", "DVITTALKANNADAMOVIE")) 
+        FORCE_SUB = int(os.environ.get("FORCE_SUB", "DVITTALBOTZ")) 
     except:
-        FORCE_SUB = os.environ.get("FORCE_SUB", "DVITTALKANNADAMOVIE")
+        FORCE_SUB = os.environ.get("FORCE_SUB", "DVITTALBOTZ")
         
     # wes response configuration     
     PORT = int(os.environ.get("PORT", "8080"))
@@ -76,7 +76,7 @@ class rkn(object):
 𝚈ᴏᴜ 𝙲ᴀɴ 𝙰ʟsᴏ 𝙲ᴏɴᴠᴇʀᴛ 𝚅ɪᴅᴇᴏ 𝚃ᴏ 𝙵ɪʟᴇ & 𝙵ɪʟᴇ 𝚃ᴏ 𝚅ɪᴅᴇᴏ
 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙰𝙻𝚂𝙾 𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝚂 𝙲𝚄𝚂𝚃𝙾𝙼 𝚃𝙷𝚄𝙼𝙱𝙽𝙰𝙸𝙻 𝙰𝙽𝙳 𝙲𝚄𝚂𝚃𝙾𝙼 𝙲𝙰𝙿𝚃𝙸𝙾𝙽
 
-Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @DVITTALKANNADAMOVIE 💞</b>"""
+Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @DVITTAL_bot 💞</b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
@@ -85,7 +85,7 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @DVITTALKANNADAMOVIE 💞</b>"""
 ├📕 Lɪʙʀᴀʀy : {}
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: {}
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: {}
-├📊 ᴠᴇʀsɪᴏɴ: <a href=https://t.me/DVITTALKANNADAMOVIE>{}</a></b>     
+├📊 ᴠᴇʀsɪᴏɴ: <a href=https://t.me/DVITTAL_bot>{}</a></b>     
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -93,7 +93,7 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @DVITTALKANNADAMOVIE 💞</b>"""
 
 ✏️ <b><u>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</u></b>
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/d_Vittal_911545>Owner</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/DVITTAL_bot>Owner</a>
 """
 
     UPGRADE_PREMIUM= """
@@ -169,13 +169,13 @@ V𝟹.𝟶.𝟶 [STABLE]
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-`--change-title @kannadamovieskannadadubb
---change-video-title @kannadamovieskannadadubb
---change-audio-title @kannadamovieskannadadubb
---change-subtitle-title @kannadamovieskannadadubb
---change-author @kannadamovieskannadadubb
+`--change-title @DVITTALBOTZ
+--change-video-title @DVITTALBOTZ
+--change-audio-title @DVITTALBOTZ
+--change-subtitle-title @DVITTALBOTZ
+--change-author @DVITTALBOTZ
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @d_Vittal_911545
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @DVITTAL_bot
 """
     
     CUSTOM_FILE_NAME = """
@@ -190,8 +190,8 @@ you can pre-add a prefix and suffix along with your new filename
 ➢ /see_suffix - Tᴏ Sᴇᴇ Yᴏᴜʀ Sᴜғғɪx !!
 ➢ /del_suffix - Tᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Sᴜғғɪx !!
 
-Exᴀᴍᴩʟᴇ:- `/set_suffix @DVITTALKANNADAMOVIE`
-Exᴀᴍᴩʟᴇ:- `/set_prefix @DVITTALKANNADAMOVIE`
+Exᴀᴍᴩʟᴇ:- `/set_suffix @DVITTALBOTZ`
+Exᴀᴍᴩʟᴇ:- `/set_prefix @DVITTALBOTZ`
 """
     
     #⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
@@ -201,9 +201,9 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @DVITTALKANNADAMOVIE`
     
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=Its not a open source code>Owner</a>
 
-• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>D vittal</a>
-• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>D vittal</a>
-• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>D vittal</a> """
+• ❣️ <a href=https://t.me/dvittalbotz>DVITTALBOTZ</a>
+• ❣️ <a href=https://t.me/dvittalbotz>DVITTALBOTZ</a>
+• ❣️ <a href=https://t.me/dvittalbotz>DVITTALBOTZ</a> """
     # ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
     SEND_METADATA = """
@@ -211,13 +211,13 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @DVITTALKANNADAMOVIE`
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-`--change-title @kannadamovieskannadadubb
---change-video-title @kannadamovieskannadadubb
---change-audio-title @kannadamovieskannadadubb
---change-subtitle-title @kannadamovieskannadadubb
---change-author @kannadamovieskannadadubb
+`--change-title @DVITTALBOTZ
+--change-video-title @DVITTALBOTZ
+--change-audio-title @DVITTALBOTZ
+--change-subtitle-title @DVITTALBOTZ
+--change-author @DVITTALBOTZ
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @d_Vittal_911545
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @DVITTAL_bot
 """
     
     RKN_PROGRESS = """<b>\n
