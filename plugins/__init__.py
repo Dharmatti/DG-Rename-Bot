@@ -29,12 +29,12 @@ __name__ = "DVITTAL_4GB_Rename_bot"
 __version__ = "3.0.8"
 __license__ = " Apache License, Version 2.0"
 __copyright__ = "Copyright (C) 2022-present Digital Botz <https://t.me/DVITTALKANNADAMOVIE>"
-__programer__ = "<a href=https://t.me/DVITTALKANNADAMOVIE>DG Botz</a>"
+__programer__ = "<a href=https://t.me/dvittalbotz>DVITTAL BOTZ</a>"
 __library__ = "<a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>"
 __language__ = "<a href=https://www.python.org/>Pyᴛʜᴏɴ 3</a>"
 __database__ = "<a href=https://cloud.mongodb.com/>Mᴏɴɢᴏ DB</a>"
-__developer__ = "<a href=https://t.me/DVITTALKANNADAMOVIE>DG Botz</a>"
-__maindeveloper__ = "<a href=https://t.me/d_Vittal_911545>DVitalDeveloper</a>"
+__developer__ = "<a href=https://t.me/dvittalbotz>DVITTAL BOTZ</a>"
+__maindeveloper__ = "<a href=https://t.me/DVITTAL_bot>Developer</a>"
 
 # main copyright herders (©️)
 # I have been working on this repo since 2022
